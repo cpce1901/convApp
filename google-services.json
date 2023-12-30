@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "71996983256",
+    "project_id": "messages-f3d66",
+    "storage_bucket": "messages-f3d66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71996983256:android:4ac784e6dbcbec563454ad",
+        "android_client_info": {
+          "package_name": "com.ircd.convApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5Ft2WuZS3lpMTQ36NGqdf50-lUMfP1gA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71996983256:android:95cd6ab6ba3e1a943454ad",
+        "android_client_info": {
+          "package_name": "com.ircd.rcdMessages"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5Ft2WuZS3lpMTQ36NGqdf50-lUMfP1gA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
